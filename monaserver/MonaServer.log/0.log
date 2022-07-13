@@ -1,0 +1,346 @@
+10/07 12:47:33.8  INFO   18180 Application.cpp[134]         MonaServer v2.565
+10/07 12:47:33.8  INFO   18180 Application.cpp[136]         Load configuration file MonaServer.ini
+10/07 12:47:33.8  WARN   16368 Server.cpp[77]               No TLS/SSL server protocols, no cert.pem file
+10/07 12:47:33.8  NOTE   16368 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+10/07 12:47:33.8  NOTE   16368 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+10/07 12:47:33.8  NOTE   16368 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+10/07 12:47:33.8  NOTE   16368 Protocols.h[82]              WS server started on 0.0.0.0:80
+10/07 12:47:33.8  NOTE   16368 Protocols.h[82]              SRT server started on 0.0.0.0:9710
+10/07 13:09:36.8  INFO   18576 Application.cpp[134]         MonaServer v2.565
+10/07 13:09:36.8  INFO   18576 Application.cpp[136]         Load configuration file MonaServer.ini
+10/07 13:09:36.8  WARN   16204 Server.cpp[77]               No TLS/SSL server protocols, no cert.pem file
+10/07 13:09:36.8  NOTE   16204 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+10/07 13:09:36.8  NOTE   16204 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+10/07 13:09:36.8  NOTE   16204 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+10/07 13:09:36.8  NOTE   16204 Protocols.h[82]              WS server started on 0.0.0.0:80
+10/07 13:09:36.8  NOTE   16204 Protocols.h[82]              SRT server started on 0.0.0.0:9710
+10/07 13:19:17.6  INFO   9160 Application.cpp[134]          MonaServer v2.565
+10/07 13:19:17.6  INFO   9160 Application.cpp[136]          Load configuration file MonaServer.ini
+10/07 13:19:17.6  WARN   19220 Server.cpp[77]               No TLS/SSL server protocols, no cert.pem file
+10/07 13:19:17.6  NOTE   19220 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+10/07 13:19:17.6  NOTE   19220 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+10/07 13:19:17.6  NOTE   19220 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+10/07 13:19:17.6  NOTE   19220 Protocols.h[82]              WS server started on 0.0.0.0:80
+10/07 13:19:17.6  NOTE   19220 Protocols.h[82]              SRT server started on 0.0.0.0:9710
+10/07 16:10:43.0  INFO   22428 Application.cpp[134]         MonaServer v2.565
+10/07 16:10:43.0  INFO   22428 Application.cpp[136]         Load configuration file MonaServer.ini
+10/07 16:10:43.0  WARN   18232 Server.cpp[77]               No TLS/SSL server protocols, no cert.pem file
+10/07 16:10:43.0  NOTE   18232 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+10/07 16:10:43.0  NOTE   18232 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+10/07 16:10:43.0  NOTE   18232 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+10/07 16:10:43.0  NOTE   18232 Protocols.h[82]              WS server started on 0.0.0.0:80
+10/07 16:10:43.0  NOTE   18232 Protocols.h[82]              SRT server started on 0.0.0.0:9710
+10/07 16:37:23.8  INFO   5596 Application.cpp[134]          MonaServer v2.565
+10/07 16:37:23.8  INFO   5596 Application.cpp[136]          Load configuration file MonaServer.ini
+10/07 16:37:23.8  WARN   3076 Server.cpp[77]                No TLS/SSL server protocols, no cert.pem file
+10/07 16:37:23.8  NOTE   3076 Protocols.h[82]               RTMFP server started on 0.0.0.0:1935
+10/07 16:37:23.8  NOTE   3076 Protocols.h[82]               RTMP server started on 0.0.0.0:1935
+10/07 16:37:23.8  NOTE   3076 Protocols.h[82]               HTTP server started on 0.0.0.0:80
+10/07 16:37:23.8  NOTE   3076 Protocols.h[82]               WS server started on 0.0.0.0:80
+10/07 16:37:23.8  NOTE   3076 Protocols.h[82]               SRT server started on 0.0.0.0:9710
+10/07 16:53:25.3  ERROR  3076 FlashMainStream.cpp[149]      Method client getStreamLength not found in application /live
+10/07 16:53:25.3  INFO   3076 FlashStream.cpp[126]          setBufferTime 3000ms on stream 1
+10/07 16:53:25.5  INFO   3076 Server.cpp[118]               1 clients
+10/07 16:54:24.0  WARN   3076 TCPSession.cpp[32]            RTMP session 1, Connection aborted
+10/07 16:54:25.8  INFO   3076 Server.cpp[118]               0 clients
+10/07 16:58:32.6  INFO   6952 Application.cpp[134]          MonaServer v2.565
+10/07 16:58:32.6  INFO   6952 Application.cpp[136]          Load configuration file MonaServer.ini
+10/07 16:58:32.6  WARN   11928 Server.cpp[77]               No TLS/SSL server protocols, no cert.pem file
+10/07 16:58:32.6  NOTE   11928 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+10/07 16:58:32.6  NOTE   11928 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+10/07 16:58:32.6  NOTE   11928 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+10/07 16:58:32.6  NOTE   11928 Protocols.h[82]              WS server started on 0.0.0.0:80
+10/07 16:58:32.6  NOTE   11928 Protocols.h[82]              SRT server started on 0.0.0.0:9710
+13/07 15:35:24.6  INFO   13900 Application.cpp[134]         MonaServer v2.565
+13/07 15:35:24.6  INFO   13900 Application.cpp[136]         Load configuration file MonaServer.ini
+13/07 15:35:24.6  WARN   15584 Server.cpp[77]               No TLS/SSL server protocols, no cert.pem file
+13/07 15:35:24.6  NOTE   15584 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+13/07 15:35:24.6  NOTE   15584 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+13/07 15:35:24.6  NOTE   15584 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+13/07 15:35:24.6  NOTE   15584 Protocols.h[82]              WS server started on 0.0.0.0:80
+13/07 15:35:24.6  NOTE   15584 Protocols.h[82]              SRT server started on 0.0.0.0:9710
+13/07 15:35:24.6  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/chat started
+13/07 15:35:24.6  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/CopyPaste started
+13/07 15:35:24.6  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/FileShare started
+13/07 15:35:24.6  INFO   15584 Service.cpp[222]             Application www/MonaClients-master/gstreamer stopped
+13/07 15:35:24.6  ERROR  15584 Service.cpp[200]             www/MonaClients-master/gstreamer/main.lua:16: attempt to call method 'createUDPSocket' (a nil value)
+13/07 15:35:24.6  INFO   15584 Service.cpp[222]             Application www/MonaClients-master/HiMona stopped
+13/07 15:35:24.7  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/HiMona started
+13/07 15:35:24.7  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/IndustrialComputing started
+13/07 15:35:24.7  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/Meeting started
+13/07 15:35:24.7  INFO   15584 Service.cpp[222]             Application www/MonaClients-master/MonaStatus stopped
+13/07 15:35:24.7  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/MonaStatus started
+13/07 15:35:24.7  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/MonaVideo started
+13/07 15:35:24.7  INFO   15584 Service.cpp[222]             Application www/MonaClients-master/old_clients/amf stopped
+13/07 15:35:24.7  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/old_clients/amf started
+13/07 15:35:24.7  INFO   15584 Service.cpp[222]             Application www/MonaClients-master/old_clients/cookies stopped
+13/07 15:35:24.7  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/old_clients/cookies started
+13/07 15:35:24.7  INFO   15584 Service.cpp[222]             Application www/MonaClients-master/old_clients/PullData stopped
+13/07 15:35:24.7  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/old_clients/PullData started
+13/07 15:35:24.7  INFO   15584 Service.cpp[222]             Application www/MonaClients-master/old_clients/PushData stopped
+13/07 15:35:24.7  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/old_clients/PushData started
+13/07 15:35:24.7  INFO   15584 Service.cpp[222]             Application www/MonaClients-master/old_clients/serialize stopped
+13/07 15:35:24.8  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/old_clients/serialize started
+13/07 15:35:24.8  INFO   15584 Service.cpp[222]             Application www/MonaClients-master/old_clients/TCPSockets stopped
+13/07 15:35:24.8  ERROR  15584 Service.cpp[200]             www/MonaClients-master/old_clients/TCPSockets/main.lua:9: attempt to call method 'createTCPClient' (a nil value)
+13/07 15:35:24.8  INFO   15584 Service.cpp[222]             Application www/MonaClients-master/old_clients/templates stopped
+13/07 15:35:24.8  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/old_clients/templates started
+13/07 15:35:24.8  ERROR  15584 Service.cpp[200]             www/MonaClients-master/old_clients/UDPSockets/main.lua:8: attempt to call method 'createUDPSocket' (a nil value)
+13/07 15:35:24.8  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/SecureLink started
+13/07 15:35:24.8  INFO   15584 Service.cpp[222]             Application www/MonaClients-master/VideoPhone stopped
+13/07 15:35:24.9  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/VideoPhone started
+13/07 15:35:24.9  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/VideoPlayer started
+13/07 15:35:24.9  INFO   15584 Service.cpp[198]             Application www/MonaClients-master/VideoPublisher started
+13/07 15:42:11.0  ERROR  15584 Service.cpp[200]             www/MonaClients-master/gstreamer/main.lua:15: attempt to call global 'children' (a nil value)
+13/07 15:43:25.4  INFO   8976 Application.cpp[134]          MonaServer v2.565
+13/07 15:43:25.4  INFO   8976 Application.cpp[136]          Load configuration file MonaServer.ini
+13/07 15:43:25.4  WARN   16168 Server.cpp[77]               No TLS/SSL server protocols, no cert.pem file
+13/07 15:43:25.4  NOTE   16168 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+13/07 15:43:25.4  NOTE   16168 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+13/07 15:43:25.4  NOTE   16168 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+13/07 15:43:25.4  NOTE   16168 Protocols.h[82]              WS server started on 0.0.0.0:80
+13/07 15:43:25.4  NOTE   16168 Protocols.h[82]              SRT server started on 0.0.0.0:9710
+13/07 15:43:25.4  ERROR  16168 Service.cpp[200]             www/gstreamer/main.lua:15: attempt to call global 'children' (a nil value)
+13/07 15:43:25.4  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/chat started
+13/07 15:43:25.4  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/CopyPaste started
+13/07 15:43:25.4  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/FileShare stopped
+13/07 15:43:25.4  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/FileShare started
+13/07 15:43:25.4  ERROR  16168 Service.cpp[200]             www/MonaClients-master/gstreamer/main.lua:15: attempt to call global 'children' (a nil value)
+13/07 15:43:25.4  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/HiMona started
+13/07 15:43:25.4  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/IndustrialComputing started
+13/07 15:43:25.4  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/Meeting started
+13/07 15:43:25.5  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/MonaStatus started
+13/07 15:43:25.5  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/MonaVideo started
+13/07 15:43:25.5  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/old_clients/amf stopped
+13/07 15:43:25.5  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/old_clients/amf started
+13/07 15:43:25.5  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/old_clients/cookies stopped
+13/07 15:43:25.5  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/old_clients/cookies started
+13/07 15:43:25.5  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/old_clients/PullData stopped
+13/07 15:43:25.5  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/old_clients/PullData started
+13/07 15:43:25.5  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/old_clients/PushData stopped
+13/07 15:43:25.5  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/old_clients/PushData started
+13/07 15:43:25.5  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/old_clients/serialize started
+13/07 15:43:25.5  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/old_clients/TCPSockets stopped
+13/07 15:43:25.5  ERROR  16168 Service.cpp[200]             www/MonaClients-master/old_clients/TCPSockets/main.lua:9: attempt to call method 'createTCPClient' (a nil value)
+13/07 15:43:25.5  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/old_clients/templates started
+13/07 15:43:25.5  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/old_clients/UDPSockets stopped
+13/07 15:43:25.5  ERROR  16168 Service.cpp[200]             www/MonaClients-master/old_clients/UDPSockets/main.lua:8: attempt to call method 'createUDPSocket' (a nil value)
+13/07 15:43:25.5  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/SecureLink stopped
+13/07 15:43:25.5  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/SecureLink started
+13/07 15:43:25.5  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/VideoPhone stopped
+13/07 15:43:25.5  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/VideoPhone started
+13/07 15:43:25.5  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/VideoPlayer started
+13/07 15:43:25.5  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/VideoPublisher started
+13/07 15:45:14.4  INFO   16168 Service.cpp[222]             Application www/Neuer Ordner stopped
+13/07 15:45:52.7  ERROR  16168 Service.cpp[200]             www//main.lua:15: attempt to call global 'children' (a nil value)
+13/07 15:45:52.7  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/CopyPaste stopped
+13/07 15:45:52.7  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/CopyPaste started
+13/07 15:45:52.7  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/FileShare stopped
+13/07 15:45:52.7  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/FileShare started
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/FileShare/.settings stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/FileShare/history stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/FileShare/src stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/HiMona stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/HiMona started
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/IndustrialComputing stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/IndustrialComputing started
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/Meeting stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/Meeting started
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/Meeting/.settings stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/Meeting/history stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/Meeting/html-template stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/MobilePublisher stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/MobileViewer stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/MobileViewer/cert stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/MobileViewer/dist stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/MobileViewer/icons stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/MobileViewer/src stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/MonaStatus stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/MonaStatus started
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/MonaStatus/src stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/MonaVideo stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/MonaVideo started
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/MonaVideo/html-template/history stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/SecureLink stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/SecureLink started
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/VideoPhone stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/VideoPhone started
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/VideoPhone/.settings stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/VideoPlayer stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/VideoPlayer started
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/VideoPublisher stopped
+13/07 15:45:52.8  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/VideoPublisher started
+13/07 15:45:52.8  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/chat stopped
+13/07 15:45:52.9  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/chat started
+13/07 15:45:52.9  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/old_clients/PullData stopped
+13/07 15:45:52.9  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/old_clients/PullData started
+13/07 15:45:52.9  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/old_clients/PushData stopped
+13/07 15:45:52.9  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/old_clients/PushData started
+13/07 15:45:52.9  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/old_clients/amf stopped
+13/07 15:45:52.9  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/old_clients/amf started
+13/07 15:45:52.9  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/old_clients/cookies stopped
+13/07 15:45:52.9  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/old_clients/cookies started
+13/07 15:45:52.9  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/old_clients/serialize stopped
+13/07 15:45:52.9  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/old_clients/serialize started
+13/07 15:45:52.9  INFO   16168 Service.cpp[222]             Application www/MonaClients-master/old_clients/templates stopped
+13/07 15:45:52.9  INFO   16168 Service.cpp[198]             Application www/MonaClients-master/old_clients/templates started
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0 stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64 stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/bin stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/etc stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/etc/fonts stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/etc/fonts/conf.d stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/etc/ssl stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/etc/ssl/certs stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/include stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/include/GL stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/lib stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/lib/gio stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/lib/gio/modules stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/lib/gstreamer-1.0 stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/libexec stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/libexec/gstreamer-1.0 stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/an stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/ang stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/as/LC_MESSAGES stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/az stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/az/LC_MESSAGES stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/be stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/be/LC_MESSAGES stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/be@latin stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/be@latin/LC_MESSAGES stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/bn stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/bn/LC_MESSAGES stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/br stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/br/LC_MESSAGES stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/bs stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/ca stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/ca@valencia stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/ca@valencia/LC_MESSAGES stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/crh stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/cs stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/cs/LC_MESSAGES stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/csb/LC_MESSAGES stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/da stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/da/LC_MESSAGES stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/de stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/dz stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/el stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/en@shaw stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/en@shaw/LC_MESSAGES stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/en_CA stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/en_GB stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/en_GB/LC_MESSAGES stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/eo/LC_MESSAGES stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/es stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/fa stopped
+13/07 16:09:15.9  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/fa/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/ga stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/gd stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/gu stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/he stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/hu stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/ia stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/ia/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/id stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/ja stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/kk stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/kk/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/kn stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/lt stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/lv stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/mai stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/mg stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/mn/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/mr/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/mt stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/mt/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/my stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/nds stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/ne/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/nl stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/nn stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/ps/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/ro stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/ru/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/rw stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/sk/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/sl stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/sl/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/sq stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/sq/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/sr@ije/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/sr@latin stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/sr@latin/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/ta/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/te stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/tg stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/th stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/tk stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/tk/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/tl stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/tt stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/tt/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/ug stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/uz stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/uz@cyrillic stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/yi stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/yi/LC_MESSAGES stopped
+13/07 16:09:16.0  INFO   16168 Service.cpp[222]             Application www/gstreamer/1.0/mingw_x86_64/share/locale/zh_HK/LC_MESSAGES stopped
+13/07 16:09:16.1  INFO   16168 Service.cpp[222]             Application www/gstreamer stopped
+13/07 16:13:16.2  INFO   4544 Application.cpp[134]          MonaServer v2.565
+13/07 16:13:16.2  INFO   4544 Application.cpp[136]          Load configuration file MonaServer.ini
+13/07 16:13:16.2  WARN   12528 Server.cpp[77]               No TLS/SSL server protocols, no cert.pem file
+13/07 16:13:16.2  NOTE   12528 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+13/07 16:13:16.2  NOTE   12528 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+13/07 16:13:16.2  NOTE   12528 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+13/07 16:13:16.2  NOTE   12528 Protocols.h[82]              WS server started on 0.0.0.0:80
+13/07 16:13:16.2  NOTE   12528 Protocols.h[82]              SRT server started on 0.0.0.0:9710
+13/07 17:14:49.7  INFO   12568 Application.cpp[134]         MonaServer v2.565
+13/07 17:14:49.7  INFO   12568 Application.cpp[136]         Load configuration file MonaServer.ini
+13/07 17:14:49.7  WARN   3204 Server.cpp[77]                No TLS/SSL server protocols, no cert.pem file
+13/07 17:14:49.7  NOTE   3204 Protocols.h[82]               RTMFP server started on 0.0.0.0:1935
+13/07 17:14:49.7  NOTE   3204 Protocols.h[82]               RTMP server started on 0.0.0.0:1935
+13/07 17:14:49.7  NOTE   3204 Protocols.h[82]               HTTP server started on 0.0.0.0:80
+13/07 17:14:49.7  NOTE   3204 Protocols.h[82]               WS server started on 0.0.0.0:80
+13/07 17:14:49.7  NOTE   3204 Protocols.h[82]               SRT server started on 0.0.0.0:9710
+13/07 17:16:38.2  INFO   6088 Application.cpp[134]          MonaServer v2.565
+13/07 17:16:38.3  INFO   6088 Application.cpp[136]          Load configuration file MonaServer.ini
+13/07 17:16:38.3  WARN   16344 Server.cpp[77]               No TLS/SSL server protocols, no cert.pem file
+13/07 17:16:38.3  NOTE   16344 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+13/07 17:16:38.3  NOTE   16344 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+13/07 17:16:38.3  NOTE   16344 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+13/07 17:16:38.3  NOTE   16344 Protocols.h[82]              WS server started on 0.0.0.0:80
+13/07 17:16:38.3  NOTE   16344 Protocols.h[82]              SRT server started on 0.0.0.0:9710
+13/07 17:20:33.4  INFO   7176 Application.cpp[134]          MonaServer v2.565
+13/07 17:20:33.4  INFO   7176 Application.cpp[136]          Load configuration file MonaServer.ini
+13/07 17:20:33.4  WARN   10944 Server.cpp[77]               No TLS/SSL server protocols, no cert.pem file
+13/07 17:20:33.5  NOTE   10944 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+13/07 17:20:33.5  NOTE   10944 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+13/07 17:20:33.5  NOTE   10944 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+13/07 17:20:33.5  NOTE   10944 Protocols.h[82]              WS server started on 0.0.0.0:80
+13/07 17:20:33.5  NOTE   10944 Protocols.h[82]              SRT server started on 0.0.0.0:9710
+13/07 17:22:02.8  INFO   1832 Application.cpp[134]          MonaServer v2.565
+13/07 17:22:02.8  INFO   1832 Application.cpp[136]          Load configuration file MonaServer.ini
+13/07 17:22:02.8  WARN   2164 Server.cpp[77]                No TLS/SSL server protocols, no cert.pem file
+13/07 17:22:02.9  NOTE   2164 Protocols.h[82]               RTMFP server started on 0.0.0.0:1935
+13/07 17:22:02.9  NOTE   2164 Protocols.h[82]               RTMP server started on 0.0.0.0:1935
+13/07 17:22:02.9  NOTE   2164 Protocols.h[82]               HTTP server started on 0.0.0.0:80
+13/07 17:22:02.9  NOTE   2164 Protocols.h[82]               WS server started on 0.0.0.0:80
+13/07 17:22:02.9  NOTE   2164 Protocols.h[82]               SRT server started on 0.0.0.0:9710
+13/07 17:26:48.5  INFO   16792 Application.cpp[134]         MonaServer v2.565
+13/07 17:26:48.5  INFO   16792 Application.cpp[136]         Load configuration file MonaServer.ini
+13/07 17:26:48.5  WARN   7764 Server.cpp[77]                No TLS/SSL server protocols, no cert.pem file
+13/07 17:26:48.5  NOTE   7764 Protocols.h[82]               RTMFP server started on 0.0.0.0:1935
+13/07 17:26:48.5  NOTE   7764 Protocols.h[82]               RTMP server started on 0.0.0.0:1935
+13/07 17:26:48.5  NOTE   7764 Protocols.h[82]               HTTP server started on 0.0.0.0:80
+13/07 17:26:48.5  NOTE   7764 Protocols.h[82]               WS server started on 0.0.0.0:80
+13/07 17:26:48.5  NOTE   7764 Protocols.h[82]               SRT server started on 0.0.0.0:9710
+13/07 17:29:25.4  INFO   15356 Application.cpp[134]         MonaServer v2.565
+13/07 17:29:25.4  INFO   15356 Application.cpp[136]         Load configuration file MonaServer.ini
+13/07 17:29:25.4  WARN   17824 Server.cpp[77]               No TLS/SSL server protocols, no cert.pem file
+13/07 17:29:25.4  NOTE   17824 Protocols.h[82]              RTMFP server started on 0.0.0.0:1935
+13/07 17:29:25.4  NOTE   17824 Protocols.h[82]              RTMP server started on 0.0.0.0:1935
+13/07 17:29:25.4  NOTE   17824 Protocols.h[82]              HTTP server started on 0.0.0.0:80
+13/07 17:29:25.4  NOTE   17824 Protocols.h[82]              WS server started on 0.0.0.0:80
+13/07 17:29:25.4  NOTE   17824 Protocols.h[82]              SRT server started on 0.0.0.0:9710
